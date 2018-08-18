@@ -1,2 +1,2 @@
 # playlist
-playlistJS
+playlistJS - https://taniamikhalevska.github.io/playlist/
